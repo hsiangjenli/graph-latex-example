@@ -1,0 +1,10 @@
+u,v,label,lw,color,opacity,bend,Direct,style
+A,B,,1,black,1,0,false,
+B,C,,1,black,1,0,false,
+D,E,,1,black,1,0,false,
+C,E,,1,black,1,0,false,
+A,eA,,1,black,1,0,false,dashed
+B,eB,,1,black,1,0,false,dashed
+C,eC,,1,black,1,0,false,dashed
+D,eD,,1,black,1,0,false,dashed
+E,eE,,1,black,1,0,false,dashed

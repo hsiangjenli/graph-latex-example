@@ -1,0 +1,12 @@
+\begin{center}
+    \begin{tikzpicture}[multilayer=3d]\label{fig:graph2embedding}
+    \SetLayerDistance{-2}
+    \Plane[x=0,y=0,width=9.6,height=5.4,color=lightgray,layer=1,NoBorder,opacity=0.7]
+    \Vertices{data/graph2embedding//vertices_1.csv}
+    
+    \Plane[x=0,y=0,width=9.6,height=5.4,grid=0.6,layer=2,color=gray,NoBorder,opacity=0.1]
+    \Vertices{data/graph2embedding/vertices_2.csv}
+    
+    \Edges{data/graph2embedding/edges.csv}
+    \end{tikzpicture}
+\end{center}
